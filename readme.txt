@@ -3,4 +3,9 @@ abcdefg
 abcdefg
 2nd edit tracking
 branch management practise
-Creating a new brand is quick & simple
+<<<<<<< HEAD
+ereating a new brand is quick And simple
+=======
+2nd try
+creating a new branch is quick And simple
+>>>>>>> feature1
